@@ -1,0 +1,7 @@
+token:
+  expiration_time: 864000000
+  secret: one-day-token
+
+order-service:
+  exception:
+    orders_is_empty: There is no item
